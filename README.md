@@ -7,7 +7,7 @@
 
 A fast, responsive, and accessible personal portfolio built with plain HTML, CSS, and JavaScript. No frameworks or build tools are required. It presents my background, skills, and selected projects in one place.
 
-**Live demo:** https://takash-balck.github.io/portfolio/
+**Live demo:** https://portfolio-bytetrend.vercel.app
 
 <!-- Optional: add a screenshot at docs/preview.png, then uncomment the line below.
 ![Portfolio preview](docs/preview.png)
