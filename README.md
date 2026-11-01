@@ -110,7 +110,7 @@ The site is static and can be hosted on GitHub Pages:
 ## Contact
 
 - GitHub: [@TAkash-Balck](https://github.com/TAkash-Balck)
-- Email: your.email@example.com
+- Email: tsakash86@gmail.com
 
 ---
 
